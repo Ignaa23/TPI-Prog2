@@ -1,0 +1,2062 @@
+# depslib dependency file v1.0
+1748977001 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\main.cpp
+	<iostream>
+	"Persona.h"
+	"Paciente.h"
+	"Medico.h"
+	"ArchivoPaciente.h"
+	"PacienteManager.h"
+
+1748470303 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1748870977 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\persona.h
+	<string>
+
+1749040287 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1748367690 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\fecha.h
+
+1749039548 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\paciente.cpp
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1749039474 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1749039548 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\medico.cpp
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1749039474 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1749069752 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\archivopaciente.cpp
+	"ArchivoPaciente.h"
+
+1749069634 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\archivopaciente.h
+	"Paciente.h"
+
+1749040388 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\archivomedico.cpp
+	"ArchivoMedico.h"
+
+1749040105 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\archivomedico.h
+	"Medico.h"
+
+1749040266 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\horaturno.cpp
+	"HoraTurno.h"
+
+1748870977 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\horaturno.h
+
+1749039754 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\turno.cpp
+	"Turno.h"
+
+1749039836 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1748872611 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1749040184 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\archivoturnos.h
+	"Turno.h"
+
+1749040233 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1749074097 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1749039428 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1749036291 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\medicomanager.h
+	"ArchivoMedico.h"
+
+1749328911 source:c:\users\usuario\desktop\integrador\archivomedico.cpp
+	"ArchivoMedico.h"
+
+1749411006 c:\users\usuario\desktop\integrador\archivomedico.h
+	"Medico.h"
+
+1749409208 c:\users\usuario\desktop\integrador\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1749409303 c:\users\usuario\desktop\integrador\fecha.h
+
+1749409456 c:\users\usuario\desktop\integrador\persona.h
+	<string>
+
+1749329097 source:c:\users\usuario\desktop\integrador\archivopaciente.cpp
+	"ArchivoPaciente.h"
+
+1749411006 c:\users\usuario\desktop\integrador\archivopaciente.h
+	"Paciente.h"
+
+1749409456 c:\users\usuario\desktop\integrador\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1749329097 source:c:\users\usuario\desktop\integrador\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1749411006 c:\users\usuario\desktop\integrador\archivoturnos.h
+	"Turno.h"
+
+1749039836 c:\users\usuario\desktop\integrador\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1748870977 c:\users\usuario\desktop\integrador\horaturno.h
+
+1749409456 source:c:\users\usuario\desktop\integrador\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1749040266 source:c:\users\usuario\desktop\integrador\horaturno.cpp
+	"HoraTurno.h"
+
+1749039548 source:c:\users\usuario\desktop\integrador\medico.cpp
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1749409456 source:c:\users\usuario\desktop\integrador\paciente.cpp
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1748470303 source:c:\users\usuario\desktop\integrador\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1749039754 source:c:\users\usuario\desktop\integrador\turno.cpp
+	"Turno.h"
+
+1749409249 source:c:\users\usuario\desktop\integrador\main.cpp
+	<iostream>
+	"Persona.h"
+	"Paciente.h"
+	"Medico.h"
+	"ArchivoPaciente.h"
+	"PacienteManager.h"
+
+1749420283 c:\users\usuario\desktop\integrador\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1749242488 source:c:\users\usuario\desktop\integrador\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1749409208 c:\users\usuario\desktop\integrador\medicomanager.h
+	"ArchivoMedico.h"
+
+1749431746 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\archivomedico.cpp
+	"ArchivoMedico.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\archivomedico.h
+	"Medico.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\fecha.h
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\persona.h
+	<string>
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\archivopaciente.cpp
+	"ArchivoPaciente.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\archivopaciente.h
+	"Paciente.h"
+
+1749433221 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\archivoturnos.h
+	"Turno.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\horaturno.h
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\horaturno.cpp
+	"HoraTurno.h"
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\main.cpp
+	<iostream>
+	"Persona.h"
+	"Paciente.h"
+	"Medico.h"
+	"ArchivoPaciente.h"
+	"PacienteManager.h"
+
+1749431980 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\medico.cpp
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\medicomanager.h
+	"ArchivoMedico.h"
+
+1749433719 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\paciente.cpp
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1749433775 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\turno.cpp
+	"Turno.h"
+
+1749411787 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1749411714 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\menumedico.h
+	"MedicoManager.h"
+
+1749411714 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1749411184 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\menupaciente.h
+	"PacienteManager.h"
+
+1749412627 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749412490 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+
+1749433719 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1749413522 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\menuturnos.h
+	"TurnosManager.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador\integrador\turnosmanager.h
+	"ArchivoTurnos.h"
+
+1749431746 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\archivomedico.cpp
+	"ArchivoMedico.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\archivomedico.h
+	"Medico.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1749691849 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\fecha.h
+	<string>
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\persona.h
+	<string>
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\archivoturnos.h
+	"Turno.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1749670685 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\horaturno.h
+
+1749693326 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\horaturno.cpp
+	"HoraTurno.h"
+
+1749671150 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749660853 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\archivopaciente.h
+	"Paciente.h"
+
+1749672543 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\medico.cpp
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1749691867 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\medicomanager.h
+	"ArchivoMedico.h"
+
+1749411787 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1749411714 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\menumedico.h
+	"MedicoManager.h"
+
+1749693967 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1749411184 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\menupaciente.h
+	"PacienteManager.h"
+
+1749694032 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749412490 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+
+1749433719 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1749413522 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\menuturnos.h
+	"TurnosManager.h"
+
+1749431747 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\turnosmanager.h
+	"ArchivoTurnos.h"
+
+1749693967 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1749431747 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\turno.cpp
+	"Turno.h"
+
+1749433793 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1749690878 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1749690878 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.0\integrador\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1749757824 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\archivomedico.cpp
+	"ArchivoMedico.h"
+
+1749758125 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\archivomedico.h
+	"Medico.h"
+
+1749431747 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1749758172 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\fecha.h
+	<string>
+
+1749431747 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\persona.h
+	<string>
+
+1749757744 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1749758172 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\archivopaciente.h
+	"Paciente.h"
+
+1749758388 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1749757693 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1749758172 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\archivoturnos.h
+	"Turno.h"
+
+1749431747 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1749758172 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\horaturno.h
+
+1749758059 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1749431747 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\horaturno.cpp
+	"HoraTurno.h"
+
+1749671150 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749412490 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+
+1749696890 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\menumedico.h
+	"MedicoManager.h"
+
+1749431747 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\medicomanager.h
+	"ArchivoMedico.h"
+
+1749411184 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\menupaciente.h
+	"PacienteManager.h"
+
+1749777403 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1749431747 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\medico.cpp
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1749691867 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1749778139 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1749769126 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1749694032 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749433719 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1749413522 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\menuturnos.h
+	"TurnosManager.h"
+
+1749431747 c:\users\usuario\desktop\integrador_v2.0\integrador_110625\turnosmanager.h
+	"ArchivoTurnos.h"
+
+1749765495 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1749777755 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1749431747 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1749431747 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\turno.cpp
+	"Turno.h"
+
+1749433793 source:c:\users\usuario\desktop\integrador_v2.0\integrador_110625\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\archivomedico.cpp
+	"ArchivoMedico.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\archivomedico.h
+	"Medico.h"
+
+1749869876 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\fecha.h
+	<string>
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\persona.h
+	<string>
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\archivopaciente.h
+	"Paciente.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\archivoturnos.h
+	"Turno.h"
+
+1749860159 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\horaturno.h
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\horaturno.cpp
+	"HoraTurno.h"
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\menumedico.h
+	"MedicoManager.h"
+
+1749867516 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\medicomanager.h
+	"ArchivoMedico.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\menupaciente.h
+	"PacienteManager.h"
+
+1749867362 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1749869401 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\medico.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1749869322 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1749868283 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1749860158 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\menuturnos.h
+	"TurnosManager.h"
+
+1749860159 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\turnosmanager.h
+	"ArchivoTurnos.h"
+
+1749866154 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1749866154 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1749860158 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1749860159 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\turno.cpp
+	"Turno.h"
+
+1749860159 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_v2.1\integrador_v2.0\integrador_110625\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1749873483 source:c:\users\usuario\desktop\integrador_110625\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1749873453 c:\users\usuario\desktop\integrador_110625\archivomedico.h
+	"Medico.h"
+
+1749875093 c:\users\usuario\desktop\integrador_110625\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1749860158 c:\users\usuario\desktop\integrador_110625\fecha.h
+	<string>
+
+1749860158 c:\users\usuario\desktop\integrador_110625\persona.h
+	<string>
+
+1749873831 source:c:\users\usuario\desktop\integrador_110625\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1749873978 c:\users\usuario\desktop\integrador_110625\archivopaciente.h
+	"Paciente.h"
+
+1749874841 c:\users\usuario\desktop\integrador_110625\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1749860158 source:c:\users\usuario\desktop\integrador_110625\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1749860158 c:\users\usuario\desktop\integrador_110625\archivoturnos.h
+	"Turno.h"
+
+1749860159 c:\users\usuario\desktop\integrador_110625\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1749860158 c:\users\usuario\desktop\integrador_110625\horaturno.h
+
+1749860158 source:c:\users\usuario\desktop\integrador_110625\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1749860158 source:c:\users\usuario\desktop\integrador_110625\horaturno.cpp
+	"HoraTurno.h"
+
+1749872916 source:c:\users\usuario\desktop\integrador_110625\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749860158 c:\users\usuario\desktop\integrador_110625\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+
+1749860158 c:\users\usuario\desktop\integrador_110625\menumedico.h
+	"MedicoManager.h"
+
+1749873243 c:\users\usuario\desktop\integrador_110625\medicomanager.h
+	"ArchivoMedico.h"
+
+1749860158 c:\users\usuario\desktop\integrador_110625\menupaciente.h
+	"PacienteManager.h"
+
+1749873243 c:\users\usuario\desktop\integrador_110625\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1749876005 source:c:\users\usuario\desktop\integrador_110625\medico.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1749874599 source:c:\users\usuario\desktop\integrador_110625\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1749875152 source:c:\users\usuario\desktop\integrador_110625\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1749860158 source:c:\users\usuario\desktop\integrador_110625\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1749876210 source:c:\users\usuario\desktop\integrador_110625\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749860158 source:c:\users\usuario\desktop\integrador_110625\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1749860158 c:\users\usuario\desktop\integrador_110625\menuturnos.h
+	"TurnosManager.h"
+
+1749860159 c:\users\usuario\desktop\integrador_110625\turnosmanager.h
+	"ArchivoTurnos.h"
+
+1749875622 source:c:\users\usuario\desktop\integrador_110625\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1749875603 source:c:\users\usuario\desktop\integrador_110625\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1749860158 source:c:\users\usuario\desktop\integrador_110625\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1749860159 source:c:\users\usuario\desktop\integrador_110625\turno.cpp
+	"Turno.h"
+
+1749860159 source:c:\users\usuario\desktop\integrador_110625\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1749938100 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1749938100 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\archivomedico.h
+	"Medico.h"
+
+1749938100 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1750115704 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\fecha.h
+	<string>
+
+1749938100 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\persona.h
+	<string>
+
+1749938100 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1749964377 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\archivopaciente.h
+	"Paciente.h"
+
+1749938100 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1750115704 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1750115704 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\archivoturnos.h
+	"Turno.h"
+
+1750098341 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1750115704 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\horaturno.h
+
+1750115704 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1750115704 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\horaturno.cpp
+	<iostream>
+	"HoraTurno.h"
+
+1749938100 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1749943186 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+	"MenuTurnos.h"
+
+1749938100 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\menumedico.h
+	"MedicoManager.h"
+
+1749938100 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\medicomanager.h
+	"ArchivoMedico.h"
+
+1749938100 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\menupaciente.h
+	"PacienteManager.h"
+
+1749938100 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1749938100 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\medico.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1750099186 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1749938100 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1749943781 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1749953320 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750104099 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1749938100 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\menuturnos.h
+	"TurnosManager.h"
+
+1750115704 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\turnosmanager.h
+	"ArchivoTurnos.h"
+
+1749938100 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1749938100 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1749938100 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750099359 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\turno.cpp
+	<iostream>
+	"Turno.h"
+
+1750116862 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625\integrador_110625\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1749938100 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1749938100 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\archivomedico.h
+	"Medico.h"
+
+1750123792 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1750123725 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\fecha.h
+	<string>
+
+1750124055 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\persona.h
+	<string>
+
+1749938100 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1750123686 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\archivopaciente.h
+	"Paciente.h"
+
+1749938100 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1750124364 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1750121713 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\archivoturnos.h
+	"Turno.h"
+
+1750121769 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1750123749 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\horaturno.h
+
+1750115704 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1750124403 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\horaturno.cpp
+	<iostream>
+	"HoraTurno.h"
+
+1750124442 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750123944 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+	"MenuTurnos.h"
+
+1750123870 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\menumedico.h
+	"MedicoManager.h"
+
+1750138400 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\medicomanager.h
+	"ArchivoMedico.h"
+
+1750123944 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\menupaciente.h
+	"PacienteManager.h"
+
+1750138079 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1750121713 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\menuturnos.h
+	"TurnosManager.h"
+
+1750189080 c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\turnosmanager.h
+	"ArchivoTurnos.h"
+	"PacienteManager.h"
+	"MedicoManager.h"
+
+1749938100 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\medico.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1750189079 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1749938100 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1750124584 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1750124624 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750121737 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1749938100 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1750188890 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1749938100 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750123385 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\turno.cpp
+	<iostream>
+	"Turno.h"
+
+1750189549 source:c:\users\usuario\desktop\integrador_110625_v3\integrador_110625\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\archivomedico.h
+	"Medico.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1750195322 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\fecha.h
+	<string>
+	<ctime>
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\persona.h
+	<string>
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\archivopaciente.h
+	"Paciente.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\archivoturnos.h
+	"Turno.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1750201198 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\horaturno.h
+	<ctime>
+
+1750201198 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\horaturno.cpp
+	<iostream>
+	"HoraTurno.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\medico.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\medicomanager.h
+	"ArchivoMedico.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\menumedico.h
+	"MedicoManager.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\menupaciente.h
+	"PacienteManager.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+	"MenuTurnos.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\menuturnos.h
+	"TurnosManager.h"
+
+1750195322 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\turnosmanager.h
+	"ArchivoTurnos.h"
+	"PacienteManager.h"
+	"MedicoManager.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\turno.cpp
+	<iostream>
+	"Turno.h"
+
+1750196255 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1750201198 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1750193874 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v4\integrador_110625_v3\integrador_110625\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\archivomedico.h
+	"Medico.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1750195322 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\fecha.h
+	<string>
+	<ctime>
+
+1750211271 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\persona.h
+	<string>
+
+1750213042 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1750213004 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\archivopaciente.h
+	"Paciente.h"
+
+1750211666 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\archivoturnos.h
+	"Turno.h"
+
+1750213004 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1750291399 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\horaturno.h
+	<ctime>
+
+1750284990 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1750291382 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\horaturno.cpp
+	<iostream>
+	"HoraTurno.h"
+
+1750193874 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750301183 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+	"MenuTurnos.h"
+	"MenuReportes.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menumedico.h
+	"MedicoManager.h"
+
+1750300949 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\medicomanager.h
+	"ArchivoMedico.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menupaciente.h
+	"PacienteManager.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1750301183 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menuturnos.h
+	"TurnosManager.h"
+
+1750301304 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\turnosmanager.h
+	"ArchivoTurnos.h"
+	"PacienteManager.h"
+	"MedicoManager.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\medico.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1750300949 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1750301183 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750301183 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1750211271 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750213495 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\turno.cpp
+	<iostream>
+	<cstring>
+	"Turno.h"
+
+1750301724 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1750300678 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menureportes.h
+	"TurnosManager.h"
+	"MedicoManager.h"
+	"PacienteManager.h"
+
+1750301183 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_110625\menureportes.cpp
+	<iostream>
+	"MenuReportes.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\archivomedico.h
+	"Medico.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\medico.h
+	"Fecha.h"
+	"Persona.h"
+
+1750195322 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\fecha.h
+	<string>
+	<ctime>
+
+1750211271 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\persona.h
+	<string>
+
+1750213042 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1750213004 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\archivopaciente.h
+	"Paciente.h"
+
+1750211666 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\paciente.h
+	"Fecha.h"
+	"Persona.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1750303529 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\archivoturnos.h
+	"Turno.h"
+
+1750213004 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\turno.h
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1750291399 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\horaturno.h
+	<ctime>
+
+1750284990 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1750291382 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\horaturno.cpp
+	<iostream>
+	"HoraTurno.h"
+
+1750193874 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750301183 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+	"MenuTurnos.h"
+	"MenuReportes.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menumedico.h
+	"MedicoManager.h"
+
+1750300949 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\medicomanager.h
+	"ArchivoMedico.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menupaciente.h
+	"PacienteManager.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1750301183 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menuturnos.h
+	"TurnosManager.h"
+
+1750301304 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\turnosmanager.h
+	"ArchivoTurnos.h"
+	"PacienteManager.h"
+	"MedicoManager.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1750300678 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menureportes.h
+	"TurnosManager.h"
+	"MedicoManager.h"
+	"PacienteManager.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\medico.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Medico.h"
+
+1750300949 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1750301183 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750301183 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menureportes.cpp
+	<iostream>
+	"MenuReportes.h"
+
+1750301183 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1750190709 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1750211271 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750213495 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\turno.cpp
+	<iostream>
+	<cstring>
+	"Turno.h"
+
+1750302888 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v7\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1752610115 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1752610115 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\archivomedico.h
+	"Medico.h"
+
+1753216975 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\medico.h
+	<cstdio>
+	"Fecha.h"
+	"HoraTurno.h"
+	"Persona.h"
+	"FuncionesAux.h"
+
+1752957823 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\fecha.h
+	<string>
+	<ctime>
+
+1752178621 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\persona.h
+	<string>
+
+1752179746 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1752179746 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\archivopaciente.h
+	"Paciente.h"
+
+1753153863 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\paciente.h
+	<iomanip>
+	"Fecha.h"
+	"Persona.h"
+
+1753243278 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1750303529 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\archivoturnos.h
+	"Turno.h"
+
+1753152730 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\turno.h
+	<iomanip>
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1753216324 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\horaturno.h
+	<ctime>
+	<iomanip>
+
+1753220191 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1753063375 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\horaturno.cpp
+	<iostream>
+	<iomanip>
+	"HoraTurno.h"
+
+1750193874 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750301183 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+	"MenuTurnos.h"
+	"MenuReportes.h"
+
+1750190709 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menumedico.h
+	"MedicoManager.h"
+
+1753233462 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\medicomanager.h
+	<cstdio>
+	"ArchivoMedico.h"
+
+1752008517 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menupaciente.h
+	"PacienteManager.h"
+
+1753233462 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1750301183 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menuturnos.h
+	"TurnosManager.h"
+
+1753238380 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\turnosmanager.h
+	<iomanip>
+	"ArchivoTurnos.h"
+	"PacienteManager.h"
+	"MedicoManager.h"
+	"Fecha.h"
+	"HoraTurno.h"
+	"FuncionesAux.h"
+
+1753233462 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menureportes.h
+	"TurnosManager.h"
+	"MedicoManager.h"
+	"PacienteManager.h"
+
+1753217694 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\medico.cpp
+	<iostream>
+	<cstring>
+	"Medico.h"
+
+1753236095 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1752178055 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1752271842 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1753233462 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1753233549 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menureportes.cpp
+	<iostream>
+	"MenuReportes.h"
+
+1753243927 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1753237558 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1753237558 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1750211271 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1753153838 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\turno.cpp
+	<iostream>
+	<cstring>
+	"Turno.h"
+
+1753243927 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1752838694 c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\funcionesaux.h
+
+1753239098 source:c:\users\dell\onedrive\documentos\tup\programacion 2\tpi\integrador_110625_v5\integrador_110625_v3\integrador_v8\funcionesaux.cpp
+	<iostream>
+	"FuncionesAux.h"
+
+1753647510 source:c:\users\usuario\desktop\integrador_v8\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1753487000 c:\users\usuario\desktop\integrador_v8\archivomedico.h
+	"Medico.h"
+
+1753487058 c:\users\usuario\desktop\integrador_v8\medico.h
+	<cstdio>
+	"Fecha.h"
+	"HoraTurno.h"
+	"Persona.h"
+	"FuncionesAux.h"
+
+1753735786 c:\users\usuario\desktop\integrador_v8\fecha.h
+	<string>
+	<ctime>
+
+1753216324 c:\users\usuario\desktop\integrador_v8\horaturno.h
+	<ctime>
+	<iomanip>
+
+1752178621 c:\users\usuario\desktop\integrador_v8\persona.h
+	<string>
+
+1752838694 c:\users\usuario\desktop\integrador_v8\funcionesaux.h
+
+1753647510 source:c:\users\usuario\desktop\integrador_v8\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1753487000 c:\users\usuario\desktop\integrador_v8\archivopaciente.h
+	"Paciente.h"
+
+1753153863 c:\users\usuario\desktop\integrador_v8\paciente.h
+	<iomanip>
+	"Fecha.h"
+	"Persona.h"
+
+1753647458 source:c:\users\usuario\desktop\integrador_v8\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1750303529 c:\users\usuario\desktop\integrador_v8\archivoturnos.h
+	"Turno.h"
+
+1753735184 c:\users\usuario\desktop\integrador_v8\turno.h
+	<iomanip>
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1753735760 source:c:\users\usuario\desktop\integrador_v8\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1753239098 source:c:\users\usuario\desktop\integrador_v8\funcionesaux.cpp
+	<iostream>
+	"FuncionesAux.h"
+
+1753651148 source:c:\users\usuario\desktop\integrador_v8\horaturno.cpp
+	<iostream>
+	<iomanip>
+	"HoraTurno.h"
+
+1753649182 source:c:\users\usuario\desktop\integrador_v8\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1750301183 c:\users\usuario\desktop\integrador_v8\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+	"MenuTurnos.h"
+	"MenuReportes.h"
+
+1750190709 c:\users\usuario\desktop\integrador_v8\menumedico.h
+	"MedicoManager.h"
+
+1753233462 c:\users\usuario\desktop\integrador_v8\medicomanager.h
+	<cstdio>
+	"ArchivoMedico.h"
+
+1752008517 c:\users\usuario\desktop\integrador_v8\menupaciente.h
+	"PacienteManager.h"
+
+1753233462 c:\users\usuario\desktop\integrador_v8\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1750301183 c:\users\usuario\desktop\integrador_v8\menuturnos.h
+	"TurnosManager.h"
+
+1753753770 c:\users\usuario\desktop\integrador_v8\turnosmanager.h
+	<iomanip>
+	"ArchivoTurnos.h"
+	"PacienteManager.h"
+	"MedicoManager.h"
+	"Fecha.h"
+	"HoraTurno.h"
+	"FuncionesAux.h"
+
+1753233462 c:\users\usuario\desktop\integrador_v8\menureportes.h
+	"TurnosManager.h"
+	"MedicoManager.h"
+	"PacienteManager.h"
+
+1753649268 source:c:\users\usuario\desktop\integrador_v8\medico.cpp
+	<iostream>
+	<cstring>
+	"Medico.h"
+
+1753652435 source:c:\users\usuario\desktop\integrador_v8\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1753385332 source:c:\users\usuario\desktop\integrador_v8\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1753386915 source:c:\users\usuario\desktop\integrador_v8\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1753387385 source:c:\users\usuario\desktop\integrador_v8\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1753753806 source:c:\users\usuario\desktop\integrador_v8\menureportes.cpp
+	<iostream>
+	"MenuReportes.h"
+
+1753736656 source:c:\users\usuario\desktop\integrador_v8\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1753237558 source:c:\users\usuario\desktop\integrador_v8\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1753237558 source:c:\users\usuario\desktop\integrador_v8\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1750211271 source:c:\users\usuario\desktop\integrador_v8\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1753737141 source:c:\users\usuario\desktop\integrador_v8\turno.cpp
+	<iostream>
+	<cstring>
+	"Turno.h"
+
+1753753750 source:c:\users\usuario\desktop\integrador_v8\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\archivomedico.h
+	"Medico.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\medico.h
+	<cstdio>
+	"Fecha.h"
+	"HoraTurno.h"
+	"Persona.h"
+	"FuncionesAux.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\fecha.h
+	<string>
+	<ctime>
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\horaturno.h
+	<ctime>
+	<iomanip>
+
+1753820810 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\persona.h
+	<string>
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\funcionesaux.h
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\archivopaciente.h
+	"Paciente.h"
+
+1753820810 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\paciente.h
+	<iomanip>
+	"Fecha.h"
+	"Persona.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\archivoturnos.h
+	"Turno.h"
+
+1753820810 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\turno.h
+	<iomanip>
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\funcionesaux.cpp
+	<iostream>
+	"FuncionesAux.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\horaturno.cpp
+	<iostream>
+	<iomanip>
+	"HoraTurno.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+	"MenuTurnos.h"
+	"MenuReportes.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menumedico.h
+	"MedicoManager.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\medicomanager.h
+	<cstdio>
+	"ArchivoMedico.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menupaciente.h
+	"PacienteManager.h"
+
+1753844871 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menuturnos.h
+	"TurnosManager.h"
+
+1753827259 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\turnosmanager.h
+	<iomanip>
+	"ArchivoTurnos.h"
+	"PacienteManager.h"
+	"MedicoManager.h"
+	"Fecha.h"
+	"HoraTurno.h"
+	"FuncionesAux.h"
+
+1753820809 c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menureportes.h
+	"TurnosManager.h"
+	"MedicoManager.h"
+	"PacienteManager.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\medico.cpp
+	<iostream>
+	<cstring>
+	"Medico.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1753844871 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1753821872 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1753825529 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menureportes.cpp
+	<iostream>
+	"MenuReportes.h"
+
+1753847219 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1753820809 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1753845841 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1753820810 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1753827259 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\turno.cpp
+	<iostream>
+	<cstring>
+	"Turno.h"
+
+1753846903 source:c:\users\dell\onedrive\escritorio\integrador_v9\integrador_v9\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\archivomedico.cpp
+	<iostream>
+	"ArchivoMedico.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\archivomedico.h
+	"Medico.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\medico.h
+	<cstdio>
+	"Fecha.h"
+	"HoraTurno.h"
+	"Persona.h"
+	"FuncionesAux.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\fecha.h
+	<string>
+	<ctime>
+
+1753820809 c:\users\usuario\desktop\integrador_v9\horaturno.h
+	<ctime>
+	<iomanip>
+
+1753820810 c:\users\usuario\desktop\integrador_v9\persona.h
+	<string>
+
+1753820809 c:\users\usuario\desktop\integrador_v9\funcionesaux.h
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\archivopaciente.cpp
+	<iostream>
+	"ArchivoPaciente.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\archivopaciente.h
+	"Paciente.h"
+
+1753820810 c:\users\usuario\desktop\integrador_v9\paciente.h
+	<iomanip>
+	"Fecha.h"
+	"Persona.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\archivoturnos.cpp
+	"ArchivoTurnos.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\archivoturnos.h
+	"Turno.h"
+
+1753820810 c:\users\usuario\desktop\integrador_v9\turno.h
+	<iomanip>
+	"Paciente.h"
+	"Medico.h"
+	"Fecha.h"
+	"HoraTurno.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\funcionesaux.cpp
+	<iostream>
+	"FuncionesAux.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\horaturno.cpp
+	<iostream>
+	<iomanip>
+	"HoraTurno.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\menuprincipal.h
+	"MenuMedico.h"
+	"MenuPaciente.h"
+	"MenuTurnos.h"
+	"MenuReportes.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\menumedico.h
+	"MedicoManager.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\medicomanager.h
+	<cstdio>
+	"ArchivoMedico.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\menupaciente.h
+	"PacienteManager.h"
+
+1753844871 c:\users\usuario\desktop\integrador_v9\pacientemanager.h
+	"ArchivoPaciente.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\menuturnos.h
+	"TurnosManager.h"
+
+1753827259 c:\users\usuario\desktop\integrador_v9\turnosmanager.h
+	<iomanip>
+	"ArchivoTurnos.h"
+	"PacienteManager.h"
+	"MedicoManager.h"
+	"Fecha.h"
+	"HoraTurno.h"
+	"FuncionesAux.h"
+
+1753820809 c:\users\usuario\desktop\integrador_v9\menureportes.h
+	"TurnosManager.h"
+	"MedicoManager.h"
+	"PacienteManager.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\medico.cpp
+	<iostream>
+	<cstring>
+	"Medico.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\medicomanager.cpp
+	<iostream>
+	"MedicoManager.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\menumedico.cpp
+	<iostream>
+	"MenuMedico.h"
+
+1753844871 source:c:\users\usuario\desktop\integrador_v9\menupaciente.cpp
+	<iostream>
+	"MenuPaciente.h"
+
+1753821872 source:c:\users\usuario\desktop\integrador_v9\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1753825529 source:c:\users\usuario\desktop\integrador_v9\menureportes.cpp
+	<iostream>
+	"MenuReportes.h"
+
+1753847219 source:c:\users\usuario\desktop\integrador_v9\menuturnos.cpp
+	<iostream>
+	"MenuTurnos.h"
+
+1753820809 source:c:\users\usuario\desktop\integrador_v9\paciente.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Paciente.h"
+
+1753845841 source:c:\users\usuario\desktop\integrador_v9\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+
+1753820810 source:c:\users\usuario\desktop\integrador_v9\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1753827259 source:c:\users\usuario\desktop\integrador_v9\turno.cpp
+	<iostream>
+	<cstring>
+	"Turno.h"
+
+1753875589 source:c:\users\usuario\desktop\integrador_v9\turnosmanager.cpp
+	<iostream>
+	"TurnosManager.h"
+

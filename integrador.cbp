@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="integrador" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/integrador" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/integrador" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ArchivoMedico.cpp" />
+		<Unit filename="ArchivoMedico.h" />
+		<Unit filename="ArchivoPaciente.cpp" />
+		<Unit filename="ArchivoPaciente.h" />
+		<Unit filename="ArchivoTurnos.cpp" />
+		<Unit filename="ArchivoTurnos.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="FuncionesAux.cpp" />
+		<Unit filename="FuncionesAux.h" />
+		<Unit filename="HoraTurno.cpp" />
+		<Unit filename="HoraTurno.h" />
+		<Unit filename="Medico.cpp" />
+		<Unit filename="Medico.h" />
+		<Unit filename="MedicoManager.cpp" />
+		<Unit filename="MedicoManager.h" />
+		<Unit filename="MenuMedico.cpp" />
+		<Unit filename="MenuMedico.h" />
+		<Unit filename="MenuPaciente.cpp" />
+		<Unit filename="MenuPaciente.h" />
+		<Unit filename="MenuPrincipal.cpp" />
+		<Unit filename="MenuPrincipal.h" />
+		<Unit filename="MenuReportes.cpp" />
+		<Unit filename="MenuReportes.h" />
+		<Unit filename="MenuTurnos.cpp" />
+		<Unit filename="MenuTurnos.h" />
+		<Unit filename="Paciente.cpp" />
+		<Unit filename="Paciente.h" />
+		<Unit filename="PacienteManager.cpp" />
+		<Unit filename="PacienteManager.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="Turno.cpp" />
+		<Unit filename="Turno.h" />
+		<Unit filename="TurnosManager.cpp" />
+		<Unit filename="TurnosManager.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
